@@ -2,4 +2,4 @@
 
 # Layout
 
-![](https://github.com/1sh1vam/Simple-Carousel/blob/main/images/Screenshot%20(79).png)
+![Image](https://github.com/1sh1vam/Simple-Carousel/blob/main/images/Screenshot%20(79).png)
